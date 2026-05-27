@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "Done"
+    },
+    {
+        "id": 2,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 3,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 4,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 5,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 6,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 7,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 8,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "Done"
+    },
+    {
+        "id": 9,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 10,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 11,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 12,
+        "task": "vevek shopping",
+        "deadline": "3-7-2026",
+        "status": "pending"
+    },
+    {
+        "id": 13,
+        "task": "vivek is going home early ",
+        "deadline": "15-5-2026",
+        "status": "pending"
+    },
+    {
+        "id": 14,
+        "task": "learn dsa by tommorow",
+        "deadline": "19-05-2026",
+        "status": "pending"
+    },
+    {
+        "id": 15,
+        "task": "coding 4hrs",
+        "deadline": "02-02-2026",
+        "status": "pending"
+    },
+    {
+        "id": 16,
+        "task": "dsa",
+        "deadline": "20-05-2026",
+        "status": "Done"
+    },
+    {
+        "id": 17,
+        "task": "demo",
+        "deadline": "20-05-2026",
+        "status": "Done"
+    }
+]

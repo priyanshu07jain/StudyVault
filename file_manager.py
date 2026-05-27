@@ -23,10 +23,20 @@ def organize_files(directory):
                 if file.suffix in exts:
                     dest = Path(directory)/folder
                     dest.mkdir(exist_ok=True)
-                    print(dest)
-                    print(str(file))
                     shutil.move(str(file), dest)
                     log(f"Moved {file.name} -> {folder}")
+                    print(f"Moved {file.name} -> {folder}")
+
+
+def get_hash(file_path):
+    md5 = hashlib.md5()
+
+    with open(file_path, "rb") as f:
+        while chunk := f.read(4096):
+            md5.update(chunk)
+
+    return md5.hexdigest()
+
 
 #find duplicates
 def find_duplicates(directory):
@@ -34,12 +44,15 @@ def find_duplicates(directory):
     duplicates=[]
     for file in Path(directory).rglob("*"):
         if file.is_file():
-            h=hashlib.md5(file.read_bytes()).hexdigest()
+            h = get_hash(file)
             if h in hashes:
                 duplicates.append((file,hashes[h]))
             else:
                 hashes[h]=file
     return duplicates
+
+
+
 
 #backup_folder of the orignal 
 def backup_folder(src,dest):
@@ -48,6 +61,7 @@ def backup_folder(src,dest):
     backup_name=f"{dest}/backup_{timestamp}.zip"
     shutil.make_archive(backup_name.replace(".zip",""),"zip",src)
     log(f"Backup created:{backup_name}")
+    print(f"Backup created:{backup_name}")
 
 
 # organize_files(r"C:\Users\developer\Documents\test")

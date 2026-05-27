@@ -1,0 +1,347 @@
+2026-05-15 17:12:50 | INFO     | Task added: vivek is going home early 
+2026-05-15 18:31:41 | INFO     | Moved new.txt -> Documents
+2026-05-15 18:31:41 | INFO     | Moved no.pdf -> Documents
+2026-05-15 18:31:41 | INFO     | Moved StudyVault_IMS_Format - Copy.docx -> Documents
+2026-05-15 18:31:41 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-15 18:31:41 | INFO     | Moved yes.pdf -> Documents
+2026-05-15 18:33:40 | INFO     | Moved G99264323.png -> Images
+2026-05-15 18:33:40 | INFO     | Moved new.txt -> Documents
+2026-05-15 18:33:40 | INFO     | Moved no.pdf -> Documents
+2026-05-15 18:33:40 | INFO     | Moved StudyVault_IMS_Format - Copy.docx -> Documents
+2026-05-15 18:33:40 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-15 18:33:40 | INFO     | Moved yes.pdf -> Documents
+2026-05-19 14:56:29 | INFO     | Task added: learn dsa by tommorow
+2026-05-19 15:29:01 | INFO     | Moved G99264323.png -> Images
+2026-05-19 15:29:01 | INFO     | Moved new.txt -> Documents
+2026-05-19 15:29:01 | INFO     | Moved no.pdf -> Documents
+2026-05-19 15:29:01 | INFO     | Moved StudyVault_IMS_Format - Copy.docx -> Documents
+2026-05-19 15:29:01 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-19 15:29:01 | INFO     | Moved yes.pdf -> Documents
+2026-05-19 16:45:00 | INFO     | Moved new.txt -> Documents
+2026-05-19 16:45:00 | INFO     | Moved no.pdf -> Documents
+2026-05-19 16:45:00 | INFO     | Moved StudyVault_IMS_Format - Copy.docx -> Documents
+2026-05-19 16:45:00 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-19 16:45:00 | INFO     | Moved yes.pdf -> Documents
+2026-05-19 16:47:32 | INFO     | Moved new.txt -> Documents
+2026-05-19 16:47:32 | INFO     | Moved no.pdf -> Documents
+2026-05-19 16:47:32 | INFO     | Moved StudyVault_IMS_Format - Copy.docx -> Documents
+2026-05-19 16:47:32 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-19 16:47:32 | INFO     | Moved yes.pdf -> Documents
+2026-05-19 18:35:13 | INFO     | Task added: coding 4hrs
+2026-05-19 18:36:49 | INFO     | Task added: dsa
+2026-05-20 13:09:50 | INFO     | Moved 7+ Years Experience - WordPress Developer - Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Adhar Card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajay Kumar Thakur (1) (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajay Kumar Thakur (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajay Kumar Thakur (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajay Kumar Thakur (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajay Kumar Thakur.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AJAY_KUMAR.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajeet_update_Resume.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajeet_update_Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajith Profile.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ajith Profile.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Akshay Babar Python Dev.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Akshay Babar.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Alim Data (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman Jham (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman Jham.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AmanJham_CV_India (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman_Python_4+yrs_Trigunasoft (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Aman_Python_4+yrs_Trigunasoft.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anadi Full_stack Resume updated pdf.pdf.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anadi Mern Stack Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved ANADI THAKUR.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anand php .docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anand-PHP.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul RL Python Fast API Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul_.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul_Resume (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul_Resume (1) (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul_Resume (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Anshul_Resume (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AnupKumarShrivastaw.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AnupKumarShrivastaw.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AnupKumarShrivastaw_updated.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AnupKumarShrivastaw_updated.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AparnaSWE 5+ (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved AparnaSWE 5+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit Python .pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit Python Resume (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit Python Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit Python_.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit RL Python Score card (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Arit RL Python Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ashraf H_Data Annotation (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Ashraf.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved ASHWIN– ROR Developer.docx (1) (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved ASHWIN– ROR Developer.docx (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved ASHWIN– ROR Developer.docx (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Available Bench List.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Available Resources.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Bench_Resource_List.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Bhavesh Sahu.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved chandanResume022025 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Chetan_Laravel_Fullstack  (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Chetan_Laravel_Fullstack  (2).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Chetan_Laravel_Fullstack .docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Chetan_Laravel_Fullstack @.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Chetan_Laravel_Fullstack.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved coding_analysis-1761813651148.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Copy of RANKUSH DATA ENG (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Copy of RANKUSH DATA ENG.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Curriculum Vitae-1 (2) 22 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Curriculum Vitae-1 (2) 22.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Curriculum Vitae-1 (3) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved CV - Freelance.docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Cv - Nitish.dox.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved CV_.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved CV_.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved cv_nikhil.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved D UpdatedResume..docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Deependra.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved DEEPENDRA_SINGH 7yrs.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dev - Alura - Intelligence And Outreach Engine (3) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dilip_Hingwe_Resume-1 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dilip_Hingwe_Resume-1.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dinesh Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dinesh-Kumar 114 (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Dinesh.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Divergent   NDA.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved EAadhaar card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved GANESH POOJA.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Gautam Pandey Python Fast API Lead Updated Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Gautam Python Fast API Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Gautam_Lead Python_8+ (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Gautam_Lead Python_8+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Hariom B.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Hariom_resume (2) 5+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Harshit Sultaniya ROR (1) (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Harshit Sultaniya ROR (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Harshit Sultaniya ROR Score card ( Precious).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Hepil - MQ00054 ML Engineer .pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Hepil Python ML score card (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Hepil Python ML score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved JD Fullstack ROR developer -C2H (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved JD Fullstack ROR developer -C2H.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Jigar Python engineer (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Jigar Python engineer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Jigar Python Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved kajal_resume_precious.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Kartik Patidar ROR Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved KARTIK ROR Developer.docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved KASIBOINA YOGANANDABALAJI (1).dox (1) (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved KASIBOINA YOGANANDABALAJI (1).dox (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved KASIBOINA YOGANANDABALAJI (1).dox (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved KASIBOINA YOGANANDABALAJI (1).dox.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Madina-Ansari-Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Manish RN 9+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved manish-rne-5 (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved manish-rne-5 (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved manish-rne-5 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Manjula D Resume (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Menaka_Resume (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Menaka_Resume (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad coding score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad Indori Python Service Implementation Updated CV.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad Python dev (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad Python dev.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad Python Service Implementation Score card (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Miqdad Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Monika Java FullStack (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Monika Java FullStack (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Monika Java FullStack.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Monika Python (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Monika Python.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved MSA- agency (11).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Mufajjal Pythin Fast API score card (Precious).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Muffajal.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved MUFFAJAL_BOHRA_RESUME (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved MUFFAJAL_BOHRA_RESUME.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA - Precious Infosystem (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _  (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _  (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ .pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ Bitsquad Software.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ CloudStakes Technology Pvt. Ltd. .pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ Ecode Dash Pvt. Ltd. .pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ Koli Infotech.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem _ Soft Suave Technologies.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA Precious Infosystem.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved NDA.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nidhi Lucky_Salary Slip_ Aug'25.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nidhi Lucky_Salary Slip_ Oct'25.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nidhi Lucky_Salary Slip_ Sep'25.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nidhi Lucky_Salary Slip_Oct'25 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nidhi Lucky_Salary Slip_Oct'25.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved niket (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Niket Jain Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Niket Jain.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved niket.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Niket_Jain_Resume-04-12.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Niket_Jain_Resume-Python (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nikunj Score Card (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nikunj Score Card (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nikunj Score Card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nikunj_Senior_Python_Developer_Resume (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nikunj_Senior_Python_Developer_Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nilesh Akhade updated Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nirmit - MQ00125 AI Engineer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Nisha Shukla 6+Y Update~ CV --.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved omshrihari-laravel-php.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pankaj D.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pankaj Laravel Full Stack.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pankaj Laravel Full Stack.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pankaj Laravel Full Stack@.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pankaj Senior Web Developer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Patel Python ML Updated CV.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Python Fast API Score card ( Precious).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Python ML Score card (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Python ML Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Python ML Updated Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Thakker Fast API Lead Updated CV (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Thakker Fast API Lead Updated CV.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth Thakker Fast API Lead Updated CV.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved parth--hype (1) (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved parth--hype (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved parth--hype (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth_P (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth_P (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth_P (3) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth_P (3).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Parth_P.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pawan K Laravel Developer7+ (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pawan K Laravel Developer7+ (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pawan K Laravel Developer7+.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pawan K Laravel Developer7+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pawan Laravel Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Piyush.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Piyush_Profile.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PIYUSH__.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRANAV Python Developer.docx (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRANAV Python Developer.docx (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRANAV Python Developer.docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Pranav Python SE Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRATHAM– Python React 5+.docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRECIOUS INFOSYSTEM BIZ DECK.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRECIOUS INFOSYSTEM PVT. LTD_Soft Suave Tech NDA (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRECIOUS INFOSYSTEM PVT. LTD_Soft Suave Tech NDA.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Precious_Infosystem_NDA.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Priya Nage Full stack Larvel Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRIYA NAGE Fullstack laravel dev. 7+ (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRIYA NAGE Fullstack laravel dev. 7+ (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRIYA NAGE Fullstack laravel dev. 7+ (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved PRIYA NAGE Fullstack laravel dev. 7+.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Priyam Python Fast API Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Priyam_N_2025.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Priyam_N_2025.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Priyanshu Jain_Offer Letter.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Proposal For RealEstate CMS.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Python AI Developer-1-2 (2).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Python AI Developer.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Python AI Developer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Python-Kuldeep-cv (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Python-Kuldeep-cv.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved RANKUSH DATA ENG (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved RANKUSH DATA ENG (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved RANKUSH DATA ENG.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved rankush_vishwakarma_data_engineer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume - Vikas Rathore - Experienced .pdf (1) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume Of HR Pallavi 2025 (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume Piu De Python Developer 3+ yrs. Exp (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume Piu De Python Developer 3+ yrs. Exp (2).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume Piu De Python Developer 3+ yrs. Exp (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume Piu De Python Developer 3+ yrs. Exp.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Mansi (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Mansi (2) (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Mansi (2).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Mansi (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Mansi.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Resume_Manushi.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rishabh Matta.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rishabh Python LLM .docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rishabh_Matta's_Resume.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved RITIK GENERATIVE AI.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rohan_Kukreja_CV (1) 5 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rohan_Kukreja_CV (1) 5 (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rohan_Kukreja_CV (1) 5.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rupesh_K_React (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Rupesh_K_React.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sachin Vishwakarma.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sachin-Vishwakarma-resume-0p.pdf.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sahil Python resume-4-1-1-2 (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sahil Python resume-4-1-1-2.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sahil.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sai_Krishna_Python_Developer.docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sai_Krishna_Python_Developer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sandip Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sandip_Bhalodiya_Python_Engineer (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sandip_Bhalodiya_Python_Engineer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sanjana_Lead_Python_FastAPI_Engineer_7+.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sanjay Chabhadiya - Software Engineer. (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sanjay Chabhadiya - Software Engineer..pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Sanjay Laravel Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Satya Krishna Python Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shantilal Frontend score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shantilal Jquery Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved shantilal_kachhawa_full_stack_developer (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved shantilal_kachhawa_full_stack_developer (2).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved shantilal_kachhawa_full_stack_developer (3).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved shantilal_kachhawa_full_stack_developer.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shrey Soni MLOPS Score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved shrey.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shrey_Soni_Senior_AI_ML_Engineer_CV (1).pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shrey_Soni_Senior_AI_ML_Engineer_CV.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shrikanth 5+ Years-Python-Resume.docx (1).docx -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shrikanth 5+ Years-Python-Resume.docx.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shubham Python Service implementation score card.pdf -> Documents
+2026-05-20 13:09:50 | INFO     | Moved Shubham_LLM python-Zingmind (1) (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Shubham_LLM python-Zingmind (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Shubham_LLM python-Zingmind.docx -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Shubham_LLM python-Zingmind.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Snehal Sharma PHP 1.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Snehal Sharma PHP.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Snehal.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved SnehiJoshi (1) (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved SnehiJoshi (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Sparsh_Golhani__FS (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved STAFF AUGMENTATION BENCH LIST (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved STAFF AUGMENTATION BENCH LIST.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved StudyVault.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved StudyVault_Implementation_Guide_v2.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved StudyVault_IMS_Format.docx -> Documents
+2026-05-20 13:09:51 | INFO     | Moved StudyVault_IMS_Format.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Subham-Fullstack-6+ years.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Subham.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Suraj E CV[1],dox (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Suraj E CV[1],dox (2).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Suraj E CV[1],dox.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Surojit Resume Updated October 2025.dox (1) (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Surojit Resume Updated October 2025.dox.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Tanmay_aug.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Technical_analysis-1765252772909.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved The Tech Galore_MSA (1) (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved The Tech Galore_ResumeTemplate (2) (1).docx -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Untitled document (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Untitled document (2).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Untitled document (3).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Untitled document.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Vaibhav Srivastav Python Service Implementation Score card.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved VaibhavSrivastava.docx -> Documents
+2026-05-20 13:09:51 | INFO     | Moved VOIP_Requirements.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved VVP_BusinessProposal (1) (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Yashu Sahu (1).pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved Yashu Sahu.pdf -> Documents
+2026-05-20 13:09:51 | INFO     | Moved yashu_python_AI_developer_5_years.pdf -> Documents
+2026-05-20 13:23:17 | INFO     | Task added: demo
+2026-05-20 13:47:19 | INFO     | Backup created:C:\Users\developer\Documents\test/backup_20260520_134719.zip
+2026-05-20 13:48:24 | INFO     | Backup created:C:\Users\developer\Documents\test/backup_20260520_134824.zip
